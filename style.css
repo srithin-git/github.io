@@ -71,6 +71,7 @@
 
   .car-info {
       flex: 2; 
+      flex-wrap: wrap;
   }
 
   .car-info h2 {
