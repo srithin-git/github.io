@@ -62,8 +62,8 @@
   }
 
   .car-item img {
-      width: 12em; 
-      height: 10em;
+      width: 250px; 
+      height: 200px;
       margin-right: 20px;
       border: #007bff;
       padding: 5px;
@@ -83,7 +83,7 @@
       font-size: 1rem; 
   }
 
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 550px) {
     .car-item{
         display: flex;
         flex-wrap: wrap;
